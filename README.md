@@ -1,4 +1,3 @@
-```markdown
 <p align="center">
   <h1 align="center">LocalAI Platform</h1>
   <p align="center">
@@ -40,4 +39,3 @@ This project provides the open-source image product [**LocalAI Platform**](https
 ## How to Contribute
 - Fork this repository and submit merge requests  
 - Synchronize updates to README.md based on your open-source image information
-```
