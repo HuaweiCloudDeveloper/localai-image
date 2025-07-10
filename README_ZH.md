@@ -15,7 +15,7 @@
 ## 项目介绍
 [LocalAI](https://localai.io/)是您完整的AI堆栈，用于在本地运行AI模型。它旨在简单，高效且易于使用，为OpenAI的API提供了替换，同时保持数据私密和安全。
 
-本项目提供的开源镜像商品 [**LocalAI平台**](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936)，已预先安装 LocalAI 及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
+本项目提供的开源镜像商品 [**LocalAI平台**](https://marketplace.huaweicloud.com/hidden/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937396495335424)，已预先安装 LocalAI 及其相关运行环境，并提供部署模板。快来参照使用指南，轻松开启“开箱即用”的高效体验吧。
 
 > **系统要求如下：**
 > - CPU: 2vCPUs 或更高
@@ -29,8 +29,8 @@
 
 | 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [LocalAI3.0.0-Ubuntu-鲲鹏-v1.0](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936) | 基于 鲲鹏云服务器 + Ubuntu 24.04 64bit 安装部署 |  |
-| [LocalAI3.0.0-HCE-鲲鹏-v1.0](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707732705042432) | 基于 鲲鹏云服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [localai-v3.0.0-kunpeng-Ubuntu24.04](https://marketplace.huaweicloud.com/hidden/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937306191904768) | 基于 鲲鹏云服务器 + Ubuntu 24.04 64bit 安装部署 |  |
+| [localai-v3.0.0-kunpeng-HCE2.0](https://marketplace.huaweicloud.com/hidden/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937396495335424) | 基于 鲲鹏云服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/localai-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
