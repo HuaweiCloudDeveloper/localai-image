@@ -1,6 +1,6 @@
 # LocalAI Tool User Guide  
 ## Product Link  
-[LocalAI Platform](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936)  
+[LocalAI Platform](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e)  
 
 ## Product Description  
 LocalAI is your complete AI stack for running AI models locally. It’s designed to be simple, efficient, and accessible, providing a drop-in replacement for OpenAI’s API while keeping your data private and secure. 
