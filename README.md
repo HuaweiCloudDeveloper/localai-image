@@ -29,8 +29,7 @@ This project provides the open-source image product [**LocalAI Platform**](https
 
 | Image Specification | Features | Remarks |
 |---------------------|----------|---------|
-| [localai-v3.0.0-kunpeng-Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit | |
-| [localai-v3.0.0-kunpeng-HCE2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e) | Deployed on Kunpeng Cloud Server + Huawei Cloud EulerOS 2.0 64bit | |
+| [localai-v3.0.0-kunpeng](https://github.com/HuaweiCloudDeveloper/localai-image/tree/localai-v3.0.0-kunpeng/README.md) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit / Huawei Cloud EulerOS 2.0 64bit | |
 
 ## Getting Help
 - For more issues, contact us via [issue](https://github.com/HuaweiCloudDeveloper/localai-image/issues) or Huawei Cloud Marketplace product support
