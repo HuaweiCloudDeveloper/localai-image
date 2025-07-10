@@ -29,8 +29,7 @@
 
 | 镜像规格                                                                                                                                 | 特性说明                                           | 备注 |
 |--------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------| --- |
-| [localai-v3.0.0-kunpeng-Ubuntu24.04](https://marketplace.huaweicloud.com/hidden/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937306191904768) | 基于 鲲鹏云服务器 + Ubuntu 24.04 64bit 安装部署 |  |
-| [localai-v3.0.0-kunpeng-HCE2.0](https://marketplace.huaweicloud.com/hidden/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937396495335424) | 基于 鲲鹏云服务器 + Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
+| [localai-v3.0.0-kunpeng](https://github.com/HuaweiCloudDeveloper/localai-image/tree/localai-v3.0.0-kunpeng/README_ZH.md) | 基于 鲲鹏云服务器 + Ubuntu 24.04 64bit /Huawei Cloud EulerOS 2.0 64bit 安装部署 |  |
 
 ## 获取帮助
 - 更多问题可通过 [issue](https://github.com/HuaweiCloudDeveloper/localai-image/issues) 或 华为云云商店指定商品的服务支持 与我们取得联系
