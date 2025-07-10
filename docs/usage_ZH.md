@@ -1,6 +1,6 @@
 # LocalAI 平台使用指南
 ## 商品连接
-[LocalAI平台](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936)
+[LocalAI平台](https://marketplace.huaweicloud.com/hidden/contents/371db6c9-0fdb-469f-b096-61cfe61d7259#productid=OFFI1148937396495335424)
 
 ## 商品说明
 LocalAI是您完整的AI堆栈，用于在本地运行AI模型。它旨在简单，高效且易于使用，为OpenAI的API提供了替换，同时保持数据私密和安全。
