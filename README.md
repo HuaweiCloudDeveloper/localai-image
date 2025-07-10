@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">LocalAI Platform</h1>
   <p align="center">
-    <a href="README.md"><strong>English</strong></a> | <strong>简体中文</strong>
+    <strong>English</strong></a> | <a href="README_ZH.md"><strong>简体中文</strong>
   </p>
 
 ## Table of Contents
@@ -15,7 +15,7 @@
 ## Repository Introduction
 [LocalAI](https://localai.io/) is your complete AI stack for running AI models locally. It is designed to be simple, efficient, and easy to use, providing a drop-in replacement for OpenAI's API while keeping your data private and secure.
 
-This project provides the open-source image product [**LocalAI Platform**](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936), which comes pre-installed with LocalAI and its related runtime environment, along with deployment templates. Follow the user guide to easily enjoy an "out-of-the-box" efficient experience.
+This project provides the open-source image product [**LocalAI Platform**](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e), which comes pre-installed with LocalAI and its related runtime environment, along with deployment templates. Follow the user guide to easily enjoy an "out-of-the-box" efficient experience.
 
 > **System Requirements:**
 > - CPU: 2vCPUs or higher
@@ -29,8 +29,8 @@ This project provides the open-source image product [**LocalAI Platform**](https
 
 | Image Specification | Features | Remarks |
 |---------------------|----------|---------|
-| [LocalAI3.0.0-Ubuntu-Kunpeng-v1.0](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707809154215936) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit | |
-| [LocalAI3.0.0-HCE-Kunpeng-v1.0](https://marketplace.huaweicloud.com/contents/c2624f6f-2e5e-4e0e-813a-832bd101101e#productid=OFFI1137707732705042432) | Deployed on Kunpeng Cloud Server + Huawei Cloud EulerOS 2.0 64bit | |
+| [localai-v3.0.0-kunpeng-Ubuntu24.04](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e) | Deployed on Kunpeng Cloud Server + Ubuntu 24.04 64bit | |
+| [localai-v3.0.0-kunpeng-HCE2.0](https://marketplace.huaweicloud.com/intl/hidden/contents/a097f0fb-aa22-4ca4-bc22-c6e3faf0c88e) | Deployed on Kunpeng Cloud Server + Huawei Cloud EulerOS 2.0 64bit | |
 
 ## Getting Help
 - For more issues, contact us via [issue](https://github.com/HuaweiCloudDeveloper/localai-image/issues) or Huawei Cloud Marketplace product support
